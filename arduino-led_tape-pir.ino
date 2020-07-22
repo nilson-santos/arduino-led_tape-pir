@@ -1,6 +1,6 @@
 #define led          3          // led Pin (PWM)
 #define pir          2          // pir input Pin
-#define timeon       120000     // 5 minutes of time with the led on
+#define timeon       120000     // 2 minutes of time with the led on
 #define vfade        50         // Fade speed
 #define brightness   15         // Max is 255
 
